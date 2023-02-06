@@ -1,4 +1,4 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Stack using to create this landing: HTML5, SCSS
+Fully adaptive layout was made by using CSS Grid and Flexbox (mobiles, tablets, laptops, high screens)
+Desing of the landing page you could find here(https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version) 
+Click the link to see demo(https://antonmartynes.github.io/myBike-landing/)
